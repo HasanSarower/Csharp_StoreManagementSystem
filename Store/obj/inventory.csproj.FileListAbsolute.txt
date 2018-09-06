@@ -1,0 +1,15 @@
+E:\inventory\inventory\inventory\bin\Debug\inventory.exe
+E:\inventory\inventory\inventory\bin\Debug\inventory.pdb
+E:\inventory\inventory\inventory\obj\Debug\ResolveAssemblyReference.cache
+E:\inventory\inventory\inventory\obj\Debug\inventory.Properties.Resources.resources
+E:\inventory\inventory\inventory\obj\Debug\inventory.csproj.GenerateResource.Cache
+E:\inventory\inventory\inventory\obj\Debug\inventory.exe
+E:\inventory\inventory\inventory\obj\Debug\inventory.pdb
+E:\inventory\inventory\inventory\obj\Debug\inventory.main.resources
+E:\inventory\inventory\inventory\obj\Debug\inventory.sell.resources
+E:\inventory\inventory\inventory\obj\Debug\inventory.add.resources
+E:\inventory\inventory\inventory\obj\Debug\inventory.buy.resources
+E:\inventory\inventory\inventory\obj\Debug\inventory.Login.resources
+E:\inventory\inventory\inventory\obj\Debug\inventory.showall.resources
+E:\inventory\inventory\inventory\obj\Debug\inventory.mdi.resources
+E:\inventory\inventory\inventory\obj\Debug\inventory.show.resources

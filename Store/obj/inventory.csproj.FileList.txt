@@ -1,0 +1,15 @@
+obj\Debug\inventory.exe
+obj\Debug\inventory.pdb
+bin\Debug\inventory.exe
+bin\Debug\inventory.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\inventory.add.resources
+obj\Debug\inventory.buy.resources
+obj\Debug\inventory.Login.resources
+obj\Debug\inventory.main.resources
+obj\Debug\inventory.mdi.resources
+obj\Debug\inventory.Properties.Resources.resources
+obj\Debug\inventory.sell.resources
+obj\Debug\inventory.show.resources
+obj\Debug\inventory.showall.resources
+obj\Debug\inventory.csproj.GenerateResource.Cache

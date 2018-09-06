@@ -1,0 +1,178 @@
+E:\inventory\inventory\obj\Debug\inventory.exe
+E:\inventory\inventory\obj\Debug\inventory.pdb
+E:\inventory\inventory\bin\Debug\inventory.exe
+E:\inventory\inventory\bin\Debug\inventory.pdb
+E:\inventory\inventory\obj\Debug\ResolveAssemblyReference.cache
+E:\inventory\inventory\obj\Debug\inventory.add.resources
+E:\inventory\inventory\obj\Debug\inventory.buy.resources
+E:\inventory\inventory\obj\Debug\inventory.Login.resources
+E:\inventory\inventory\obj\Debug\inventory.mdi.resources
+E:\inventory\inventory\obj\Debug\inventory.Properties.Resources.resources
+E:\inventory\inventory\obj\Debug\inventory.sell.resources
+E:\inventory\inventory\obj\Debug\inventory.show.resources
+E:\inventory\inventory\obj\Debug\inventory.showall.resources
+E:\inventory\inventory\obj\Debug\inventory.csproj.GenerateResource.Cache
+I:\New Folder (2)\inventory\inventory\obj\Debug\inventory.exe
+I:\New Folder (2)\inventory\inventory\bin\Debug\inventory.exe
+I:\New Folder (2)\inventory\inventory\bin\Debug\inventory.pdb
+I:\New Folder (2)\inventory\inventory\obj\Debug\ResolveAssemblyReference.cache
+I:\New Folder (2)\inventory\inventory\obj\Debug\inventory.add.resources
+I:\New Folder (2)\inventory\inventory\obj\Debug\inventory.buy.resources
+I:\New Folder (2)\inventory\inventory\obj\Debug\inventory.Login.resources
+I:\New Folder (2)\inventory\inventory\obj\Debug\inventory.mdi.resources
+I:\New Folder (2)\inventory\inventory\obj\Debug\inventory.Properties.Resources.resources
+I:\New Folder (2)\inventory\inventory\obj\Debug\inventory.sell.resources
+I:\New Folder (2)\inventory\inventory\obj\Debug\inventory.show.resources
+I:\New Folder (2)\inventory\inventory\obj\Debug\inventory.showall.resources
+I:\New Folder (2)\inventory\inventory\obj\Debug\inventory.csproj.GenerateResource.Cache
+I:\New Folder (2)\inventory\inventory\obj\Debug\inventory.pdb
+H:\New Folder (2)\inventory\inventory\obj\Debug\inventory.exe
+H:\New Folder (2)\inventory\inventory\obj\Debug\inventory.pdb
+H:\New Folder (2)\inventory\inventory\bin\Debug\inventory.exe
+H:\New Folder (2)\inventory\inventory\bin\Debug\inventory.pdb
+H:\New Folder (2)\inventory\inventory\obj\Debug\ResolveAssemblyReference.cache
+H:\New Folder (2)\inventory\inventory\obj\Debug\inventory.add.resources
+H:\New Folder (2)\inventory\inventory\obj\Debug\inventory.buy.resources
+H:\New Folder (2)\inventory\inventory\obj\Debug\inventory.Login.resources
+H:\New Folder (2)\inventory\inventory\obj\Debug\inventory.mdi.resources
+H:\New Folder (2)\inventory\inventory\obj\Debug\inventory.Properties.Resources.resources
+H:\New Folder (2)\inventory\inventory\obj\Debug\inventory.sell.resources
+H:\New Folder (2)\inventory\inventory\obj\Debug\inventory.show.resources
+H:\New Folder (2)\inventory\inventory\obj\Debug\inventory.showall.resources
+H:\New Folder (2)\inventory\inventory\obj\Debug\inventory.csproj.GenerateResource.Cache
+F:\New Folder (2)\inventory\inventory\obj\Debug\inventory.exe
+F:\New Folder (2)\inventory\inventory\obj\Debug\inventory.pdb
+F:\New Folder (2)\inventory\inventory\obj\Debug\ResolveAssemblyReference.cache
+F:\New Folder (2)\inventory\inventory\obj\Debug\inventory.add.resources
+F:\New Folder (2)\inventory\inventory\obj\Debug\inventory.buy.resources
+F:\New Folder (2)\inventory\inventory\obj\Debug\inventory.Login.resources
+F:\New Folder (2)\inventory\inventory\obj\Debug\inventory.mdi.resources
+F:\New Folder (2)\inventory\inventory\obj\Debug\inventory.Properties.Resources.resources
+F:\New Folder (2)\inventory\inventory\obj\Debug\inventory.sell.resources
+F:\New Folder (2)\inventory\inventory\obj\Debug\inventory.show.resources
+F:\New Folder (2)\inventory\inventory\obj\Debug\inventory.showall.resources
+F:\New Folder (2)\inventory\inventory\obj\Debug\inventory.csproj.GenerateResource.Cache
+F:\New Folder (2)\inventory\inventory\bin\Debug\inventory.exe
+F:\New Folder (2)\inventory\inventory\bin\Debug\inventory.pdb
+D:\New Folder (2)\inventory\inventory\obj\Debug\inventory.exe
+D:\New Folder (2)\inventory\inventory\obj\Debug\inventory.pdb
+D:\New Folder (2)\inventory\inventory\bin\Debug\inventory.exe
+D:\New Folder (2)\inventory\inventory\bin\Debug\inventory.pdb
+D:\New Folder (2)\inventory\inventory\obj\Debug\ResolveAssemblyReference.cache
+D:\New Folder (2)\inventory\inventory\obj\Debug\inventory.add.resources
+D:\New Folder (2)\inventory\inventory\obj\Debug\inventory.buy.resources
+D:\New Folder (2)\inventory\inventory\obj\Debug\inventory.Login.resources
+D:\New Folder (2)\inventory\inventory\obj\Debug\inventory.mdi.resources
+D:\New Folder (2)\inventory\inventory\obj\Debug\inventory.Properties.Resources.resources
+D:\New Folder (2)\inventory\inventory\obj\Debug\inventory.sell.resources
+D:\New Folder (2)\inventory\inventory\obj\Debug\inventory.show.resources
+D:\New Folder (2)\inventory\inventory\obj\Debug\inventory.showall.resources
+D:\New Folder (2)\inventory\inventory\obj\Debug\inventory.csproj.GenerateResource.Cache
+L:\Pramod_Hiren(MCA-B)\inventory\inventory\obj\Debug\inventory.exe
+L:\Pramod_Hiren(MCA-B)\inventory\inventory\obj\Debug\inventory.pdb
+C:\Users\prem\Desktop\Pramod_Hiren(MCA-B)\inventory\inventory\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\prem\Desktop\Pramod_Hiren(MCA-B)\inventory\inventory\obj\Debug\inventory.add.resources
+C:\Users\prem\Desktop\Pramod_Hiren(MCA-B)\inventory\inventory\obj\Debug\inventory.buy.resources
+C:\Users\prem\Desktop\Pramod_Hiren(MCA-B)\inventory\inventory\obj\Debug\inventory.Login.resources
+C:\Users\prem\Desktop\Pramod_Hiren(MCA-B)\inventory\inventory\obj\Debug\inventory.mdi.resources
+C:\Users\prem\Desktop\Pramod_Hiren(MCA-B)\inventory\inventory\obj\Debug\inventory.Properties.Resources.resources
+C:\Users\prem\Desktop\Pramod_Hiren(MCA-B)\inventory\inventory\obj\Debug\inventory.sell.resources
+C:\Users\prem\Desktop\Pramod_Hiren(MCA-B)\inventory\inventory\obj\Debug\inventory.show.resources
+C:\Users\prem\Desktop\Pramod_Hiren(MCA-B)\inventory\inventory\obj\Debug\inventory.showall.resources
+C:\Users\prem\Desktop\Pramod_Hiren(MCA-B)\inventory\inventory\obj\Debug\inventory.csproj.GenerateResource.Cache
+C:\Users\prem\Desktop\Pramod_Hiren(MCA-B)\inventory\inventory\bin\Debug\DBInventory.sdf
+C:\Users\prem\Desktop\Pramod_Hiren(MCA-B)\inventory\inventory\bin\Debug\inventory.exe.config
+C:\Users\prem\Desktop\Pramod_Hiren(MCA-B)\inventory\inventory\bin\Debug\inventory.exe
+C:\Users\prem\Desktop\Pramod_Hiren(MCA-B)\inventory\inventory\bin\Debug\inventory.pdb
+C:\Users\prem\Desktop\Pramod_Hiren(MCA-B)\inventory\inventory\obj\Debug\inventory.exe
+C:\Users\prem\Desktop\Pramod_Hiren(MCA-B)\inventory\inventory\obj\Debug\inventory.pdb
+C:\Documents and Settings\ishu\Desktop\Pramod_Hiren(MCA-B)\inventory\inventory\bin\Debug\inventory.exe.config
+C:\Documents and Settings\ishu\Desktop\Pramod_Hiren(MCA-B)\inventory\inventory\obj\Debug\inventory.exe
+C:\Documents and Settings\ishu\Desktop\Pramod_Hiren(MCA-B)\inventory\inventory\obj\Debug\inventory.pdb
+C:\Documents and Settings\ishu\Desktop\Pramod_Hiren(MCA-B)\inventory\inventory\bin\Debug\DBInventory.sdf
+C:\Documents and Settings\ishu\Desktop\Pramod_Hiren(MCA-B)\inventory\inventory\bin\Debug\inventory.exe
+C:\Documents and Settings\ishu\Desktop\Pramod_Hiren(MCA-B)\inventory\inventory\bin\Debug\inventory.pdb
+C:\Documents and Settings\ishu\Desktop\Pramod_Hiren(MCA-B)\inventory\inventory\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ishu\Desktop\Pramod_Hiren(MCA-B)\inventory\inventory\obj\Debug\inventory.add.resources
+C:\Documents and Settings\ishu\Desktop\Pramod_Hiren(MCA-B)\inventory\inventory\obj\Debug\inventory.buy.resources
+C:\Documents and Settings\ishu\Desktop\Pramod_Hiren(MCA-B)\inventory\inventory\obj\Debug\inventory.Login.resources
+C:\Documents and Settings\ishu\Desktop\Pramod_Hiren(MCA-B)\inventory\inventory\obj\Debug\inventory.mdi.resources
+C:\Documents and Settings\ishu\Desktop\Pramod_Hiren(MCA-B)\inventory\inventory\obj\Debug\inventory.Properties.Resources.resources
+C:\Documents and Settings\ishu\Desktop\Pramod_Hiren(MCA-B)\inventory\inventory\obj\Debug\inventory.sell.resources
+C:\Documents and Settings\ishu\Desktop\Pramod_Hiren(MCA-B)\inventory\inventory\obj\Debug\inventory.csproj.GenerateResource.Cache
+C:\Documents and Settings\ishu\Desktop\Pramod_Hiren(MCA-B)\inventory\inventory\bin\Debug\InventoryDB.mdf
+C:\Documents and Settings\ishu\Desktop\Pramod_Hiren(MCA-B)\inventory\inventory\bin\Debug\InventoryDB_log.ldf
+C:\Documents and Settings\ishu\Desktop\Pramod_Hiren(MCA-B)\inventory\inventory\obj\Debug\inventory.ShowSell.resources
+C:\Documents and Settings\ishu\Desktop\Pramod_Hiren(MCA-B)\inventory\inventory\obj\Debug\inventory.ShowBuy.resources
+I:\Pramod_Hiren(MCA-B)\inventory\inventory\bin\Debug\inventory.exe.config
+I:\Pramod_Hiren(MCA-B)\inventory\inventory\obj\Debug\inventory.exe
+I:\Pramod_Hiren(MCA-B)\inventory\inventory\obj\Debug\inventory.pdb
+I:\Pramod_Hiren(MCA-B)\inventory\inventory\bin\Debug\DBInventory.sdf
+I:\Pramod_Hiren(MCA-B)\inventory\inventory\bin\Debug\InventoryDB.mdf
+I:\Pramod_Hiren(MCA-B)\inventory\inventory\bin\Debug\InventoryDB_log.ldf
+I:\Pramod_Hiren(MCA-B)\inventory\inventory\bin\Debug\inventory.exe
+I:\Pramod_Hiren(MCA-B)\inventory\inventory\bin\Debug\inventory.pdb
+I:\Pramod_Hiren(MCA-B)\inventory\inventory\obj\Debug\ResolveAssemblyReference.cache
+I:\Pramod_Hiren(MCA-B)\inventory\inventory\obj\Debug\inventory.add.resources
+I:\Pramod_Hiren(MCA-B)\inventory\inventory\obj\Debug\inventory.buy.resources
+I:\Pramod_Hiren(MCA-B)\inventory\inventory\obj\Debug\inventory.Login.resources
+I:\Pramod_Hiren(MCA-B)\inventory\inventory\obj\Debug\inventory.mdi.resources
+I:\Pramod_Hiren(MCA-B)\inventory\inventory\obj\Debug\inventory.Properties.Resources.resources
+I:\Pramod_Hiren(MCA-B)\inventory\inventory\obj\Debug\inventory.sell.resources
+I:\Pramod_Hiren(MCA-B)\inventory\inventory\obj\Debug\inventory.ShowBuy.resources
+I:\Pramod_Hiren(MCA-B)\inventory\inventory\obj\Debug\inventory.ShowSell.resources
+I:\Pramod_Hiren(MCA-B)\inventory\inventory\obj\Debug\inventory.csproj.GenerateResource.Cache
+F:\Copy of Project MCA\Pramod  Ladani & Hiren\Project\inventory\bin\Debug\inventory.exe.config
+F:\Copy of Project MCA\Pramod  Ladani & Hiren\Project\inventory\obj\Debug\inventory.exe
+F:\Copy of Project MCA\Pramod  Ladani & Hiren\Project\inventory\obj\Debug\inventory.pdb
+F:\Copy of Project MCA\Pramod  Ladani & Hiren\Project\inventory\bin\Debug\DBInventory.sdf
+F:\Copy of Project MCA\Pramod  Ladani & Hiren\Project\inventory\bin\Debug\InventoryDB.mdf
+F:\Copy of Project MCA\Pramod  Ladani & Hiren\Project\inventory\bin\Debug\InventoryDB_log.ldf
+F:\Copy of Project MCA\Pramod  Ladani & Hiren\Project\inventory\bin\Debug\inventory.exe
+F:\Copy of Project MCA\Pramod  Ladani & Hiren\Project\inventory\bin\Debug\inventory.pdb
+F:\Copy of Project MCA\Pramod  Ladani & Hiren\Project\inventory\obj\Debug\ResolveAssemblyReference.cache
+F:\Copy of Project MCA\Pramod  Ladani & Hiren\Project\inventory\obj\Debug\inventory.add.resources
+F:\Copy of Project MCA\Pramod  Ladani & Hiren\Project\inventory\obj\Debug\inventory.buy.resources
+F:\Copy of Project MCA\Pramod  Ladani & Hiren\Project\inventory\obj\Debug\inventory.Login.resources
+F:\Copy of Project MCA\Pramod  Ladani & Hiren\Project\inventory\obj\Debug\inventory.mdi.resources
+F:\Copy of Project MCA\Pramod  Ladani & Hiren\Project\inventory\obj\Debug\inventory.Properties.Resources.resources
+F:\Copy of Project MCA\Pramod  Ladani & Hiren\Project\inventory\obj\Debug\inventory.sell.resources
+F:\Copy of Project MCA\Pramod  Ladani & Hiren\Project\inventory\obj\Debug\inventory.ShowBuy.resources
+F:\Copy of Project MCA\Pramod  Ladani & Hiren\Project\inventory\obj\Debug\inventory.ShowSell.resources
+F:\Copy of Project MCA\Pramod  Ladani & Hiren\Project\inventory\obj\Debug\inventory.csproj.GenerateResource.Cache
+C:\Users\ASUS\Downloads\kashipara.com_Invetory-mgmnt-csh-pro-zip\Project\inventory\bin\Debug\inventory.exe.config
+C:\Users\ASUS\Downloads\kashipara.com_Invetory-mgmnt-csh-pro-zip\Project\inventory\obj\Debug\inventory.exe
+C:\Users\ASUS\Downloads\kashipara.com_Invetory-mgmnt-csh-pro-zip\Project\inventory\obj\Debug\inventory.pdb
+C:\Users\ASUS\Downloads\kashipara.com_Invetory-mgmnt-csh-pro-zip\Project\inventory\bin\Debug\DBInventory.sdf
+C:\Users\ASUS\Downloads\kashipara.com_Invetory-mgmnt-csh-pro-zip\Project\inventory\bin\Debug\InventoryDB.mdf
+C:\Users\ASUS\Downloads\kashipara.com_Invetory-mgmnt-csh-pro-zip\Project\inventory\bin\Debug\InventoryDB_log.ldf
+C:\Users\ASUS\Downloads\kashipara.com_Invetory-mgmnt-csh-pro-zip\Project\inventory\bin\Debug\inventory.exe
+C:\Users\ASUS\Downloads\kashipara.com_Invetory-mgmnt-csh-pro-zip\Project\inventory\bin\Debug\inventory.pdb
+C:\Users\ASUS\Downloads\kashipara.com_Invetory-mgmnt-csh-pro-zip\Project\inventory\obj\Debug\inventory.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Downloads\kashipara.com_Invetory-mgmnt-csh-pro-zip\Project\inventory\obj\Debug\inventory.add.resources
+C:\Users\ASUS\Downloads\kashipara.com_Invetory-mgmnt-csh-pro-zip\Project\inventory\obj\Debug\inventory.buy.resources
+C:\Users\ASUS\Downloads\kashipara.com_Invetory-mgmnt-csh-pro-zip\Project\inventory\obj\Debug\inventory.Login.resources
+C:\Users\ASUS\Downloads\kashipara.com_Invetory-mgmnt-csh-pro-zip\Project\inventory\obj\Debug\inventory.Properties.Resources.resources
+C:\Users\ASUS\Downloads\kashipara.com_Invetory-mgmnt-csh-pro-zip\Project\inventory\obj\Debug\inventory.sell.resources
+C:\Users\ASUS\Downloads\kashipara.com_Invetory-mgmnt-csh-pro-zip\Project\inventory\obj\Debug\inventory.ShowBuy.resources
+C:\Users\ASUS\Downloads\kashipara.com_Invetory-mgmnt-csh-pro-zip\Project\inventory\obj\Debug\inventory.ShowSell.resources
+C:\Users\ASUS\Downloads\kashipara.com_Invetory-mgmnt-csh-pro-zip\Project\inventory\obj\Debug\inventory.csproj.GenerateResource.Cache
+C:\Users\ASUS\Downloads\kashipara.com_Invetory-mgmnt-csh-pro-zip\Project\inventory\obj\Debug\inventory.mainForm.resources
+C:\Users\ASUS\Downloads\Store_Management\inventory\bin\Debug\inventory.exe.config
+C:\Users\ASUS\Downloads\Store_Management\inventory\obj\Debug\inventory.exe
+C:\Users\ASUS\Downloads\Store_Management\inventory\obj\Debug\inventory.pdb
+C:\Users\ASUS\Downloads\Store_Management\inventory\bin\Debug\inventory.exe
+C:\Users\ASUS\Downloads\Store_Management\inventory\bin\Debug\inventory.pdb
+C:\Users\ASUS\Downloads\Store_Management\inventory\obj\Debug\inventory.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Downloads\Store_Management\inventory\obj\Debug\inventory.add.resources
+C:\Users\ASUS\Downloads\Store_Management\inventory\obj\Debug\inventory.buy.resources
+C:\Users\ASUS\Downloads\Store_Management\inventory\obj\Debug\inventory.Login.resources
+C:\Users\ASUS\Downloads\Store_Management\inventory\obj\Debug\inventory.mainForm.resources
+C:\Users\ASUS\Downloads\Store_Management\inventory\obj\Debug\inventory.Properties.Resources.resources
+C:\Users\ASUS\Downloads\Store_Management\inventory\obj\Debug\inventory.sell.resources
+C:\Users\ASUS\Downloads\Store_Management\inventory\obj\Debug\inventory.ShowBuy.resources
+C:\Users\ASUS\Downloads\Store_Management\inventory\obj\Debug\inventory.ShowSell.resources
+C:\Users\ASUS\Downloads\Store_Management\inventory\obj\Debug\inventory.csproj.GenerateResource.Cache
+C:\Users\ASUS\Downloads\Store_Management\inventory\bin\Debug\DBStore.sdf
+C:\Users\ASUS\Downloads\Store_Management\inventory\bin\Debug\StoreDB.mdf
+C:\Users\ASUS\Downloads\Store_Management\inventory\bin\Debug\StoreDB_log.ldf
